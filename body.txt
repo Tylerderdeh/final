@@ -1,0 +1,8 @@
+{
+  "name": "Bob",
+  "bin": "987654321098",
+  "establishments": {
+    "id": 3,
+    "name": "Coffee House"
+  }
+}
